@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="289px" height="259px" viewBox="0 0 289 259" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M29.5 52L46 83L13 83L29.5 52Z" id="path_1" />
+    <path d="M258.613 139.213L262.908 174.067L232.1 162.241L258.613 139.213Z" id="path_2" />
+    <path d="M-3.5 189.4L13 220.4L-20 220.4L-3.5 189.4Z" id="path_3" />
+    <path d="M242.454 26.7456L276.93 33.4316L256.162 59.0774L242.454 26.7456Z" id="path_4" />
+    <path d="M152 104L160 118L144 118L152 104Z" id="path_5" />
+    <path d="M177.7 162L188.2 180L167.2 180L177.7 162Z" id="path_6" />
+    <path d="M220.7 90C220.7 66.804 239.504 48 262.7 48C285.896 48 304.7 66.804 304.7 90C304.7 113.196 285.896 132 262.7 132C239.504 132 220.7 113.196 220.7 90Z" id="path_7" />
+    <path d="M106.6 85.3C106.6 63.4848 124.285 45.8 146.1 45.8C167.915 45.8 185.6 63.4848 185.6 85.3C185.6 107.115 167.915 124.8 146.1 124.8C124.285 124.8 106.6 107.115 106.6 85.3Z" id="path_8" />
+    <path d="M266 69L274 83L258 83L266 69Z" id="path_9" />
+    <path d="M234.387 195.043L227.043 206.546L220.74 195.176L234.387 195.043Z" id="path_10" />
+    <path d="M220.7 115C220.7 104.507 229.207 96 239.7 96C250.193 96 258.7 104.507 258.7 115C258.7 125.493 250.193 134 239.7 134C229.207 134 220.7 125.493 220.7 115Z" id="path_11" />
+    <path d="M43.8041 138.213L48.0988 173.067L17.2906 161.241L43.8041 138.213Z" id="path_12" />
+    <path d="M6.39999 114.3C6.39999 103.807 14.9066 95.3 25.4 95.3C35.8934 95.3 44.4 103.807 44.4 114.3C44.4 124.793 35.8934 133.3 25.4 133.3C14.9066 133.3 6.39999 124.793 6.39999 114.3Z" id="path_13" />
+    <path d="M27 185C27 174.507 35.5066 166 46 166C56.4934 166 65 174.507 65 185C65 195.493 56.4934 204 46 204C35.5066 204 27 195.493 27 185Z" id="path_14" />
+    <path d="M125 143.6C125 138.353 129.253 134.1 134.5 134.1C139.747 134.1 144 138.353 144 143.6C144 148.847 139.747 153.1 134.5 153.1C129.253 153.1 125 148.847 125 143.6Z" id="path_15" />
+    <path d="M174 19.3L182 33.3L166 33.3L174 19.3Z" id="path_16" />
+    <path d="M182 119.3L190 133.3L174 133.3L182 119.3Z" id="path_17" />
+    <path d="M147 58.8C147 53.5533 151.253 49.3 156.5 49.3C161.747 49.3 166 53.5533 166 58.8C166 64.0467 161.747 68.3 156.5 68.3C151.253 68.3 147 64.0467 147 58.8Z" id="path_18" />
+    <path d="M3.70001 49.6C3.70001 44.3533 7.95331 40.1 13.2 40.1C18.4467 40.1 22.7 44.3533 22.7 49.6C22.7 54.8467 18.4467 59.1 13.2 59.1C7.95331 59.1 3.70001 54.8467 3.70001 49.6Z" id="path_19" />
+    <path d="M245 198.9C245 193.653 249.253 189.4 254.5 189.4C259.747 189.4 264 193.653 264 198.9C264 204.147 259.747 208.4 254.5 208.4C249.253 208.4 245 204.147 245 198.9Z" id="path_20" />
+    <path d="M115.222 224.912L84.8172 242.483L83.6656 209.504L115.222 224.912Z" id="path_21" />
+    <path d="M54.4078 224.378L40.9499 222.113L48.9535 211.868L54.4078 224.378Z" id="path_22" />
+    <path d="M55.135 235.855C59.9646 233.805 65.5417 236.059 67.5917 240.888C69.6417 245.718 67.3884 251.295 62.5588 253.345C57.7292 255.395 52.1521 253.142 50.1021 248.312C48.0521 243.482 50.3054 237.905 55.135 235.855Z" id="path_23" />
+    <path d="M226 71.2C226 65.9533 230.253 61.7 235.5 61.7C240.747 61.7 245 65.9533 245 71.2C245 76.4467 240.747 80.7 235.5 80.7C230.253 80.7 226 76.4467 226 71.2Z" id="path_24" />
+    <path d="M99.9041 124.913L104.199 159.767L73.3906 147.941L99.9041 124.913Z" id="path_25" />
+    <path d="M83.8838 13.1771L118.359 19.8631L97.5915 45.5089L83.8838 13.1771Z" id="path_26" />
+    <path d="M6.38379 -9.02291L40.8591 -2.33687L20.0915 23.3089L6.38379 -9.02291Z" id="path_27" />
+    <path d="M107.5 55L115.5 69L99.5 69L107.5 55Z" id="path_28" />
+    <path d="M212.7 159.1L220.7 173.1L204.7 173.1L212.7 159.1Z" id="path_29" />
+    <path d="M185.7 198.6C185.7 193.353 189.953 189.1 195.2 189.1C200.447 189.1 204.7 193.353 204.7 198.6C204.7 203.847 200.447 208.1 195.2 208.1C189.953 208.1 185.7 203.847 185.7 198.6Z" id="path_30" />
+    <path d="M123.084 153.277L157.559 159.963L136.792 185.609L123.084 153.277Z" id="path_31" />
+    <path d="M146.7 195.1L154.7 209.1L138.7 209.1L146.7 195.1Z" id="path_32" />
+    <path d="M75.6513 180.685L68.3071 192.188L62.0046 180.818L75.6513 180.685Z" id="path_33" />
+    <path d="M62.5 101C62.5 90.5066 71.0066 82 81.5 82C91.9934 82 100.5 90.5066 100.5 101C100.5 111.493 91.9934 120 81.5 120C71.0066 120 62.5 111.493 62.5 101Z" id="path_34" />
+    <path d="M86.5 184.5C86.5 179.253 90.7533 175 96 175C101.247 175 105.5 179.253 105.5 184.5C105.5 189.747 101.247 194 96 194C90.7533 194 86.5 189.747 86.5 184.5Z" id="path_35" />
+    <path d="M67.5 57.5C67.5 52.2533 71.7533 48 77 48C82.2467 48 86.5 52.2533 86.5 57.5C86.5 62.7467 82.2467 67 77 67C71.7533 67 67.5 62.7467 67.5 57.5Z" id="path_36" />
+    <path d="M166 67L200 67L200 101L166 101L166 67Z" id="path_37" />
+    <path d="M137.3 237.8L171.3 237.8L171.3 271.8L137.3 271.8L137.3 237.8Z" id="path_38" />
+    <path d="M219.384 -75.9106L229.627 52.2741L126 12.4953L219.384 -75.9106Z" id="path_39" />
+    <rect width="289" height="259" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="clip_4">
+      <use xlink:href="#path_3" />
+    </clipPath>
+    <clipPath id="clip_5">
+      <use xlink:href="#path_4" />
+    </clipPath>
+    <clipPath id="clip_6">
+      <use xlink:href="#path_5" />
+    </clipPath>
+    <clipPath id="clip_7">
+      <use xlink:href="#path_6" />
+    </clipPath>
+    <clipPath id="clip_8">
+      <use xlink:href="#path_7" />
+    </clipPath>
+    <clipPath id="clip_9">
+      <use xlink:href="#path_8" />
+    </clipPath>
+    <clipPath id="clip_10">
+      <use xlink:href="#path_9" />
+    </clipPath>
+    <clipPath id="clip_11">
+      <use xlink:href="#path_10" />
+    </clipPath>
+    <clipPath id="clip_12">
+      <use xlink:href="#path_11" />
+    </clipPath>
+    <clipPath id="clip_13">
+      <use xlink:href="#path_12" />
+    </clipPath>
+    <clipPath id="clip_14">
+      <use xlink:href="#path_13" />
+    </clipPath>
+    <clipPath id="clip_15">
+      <use xlink:href="#path_14" />
+    </clipPath>
+    <clipPath id="clip_16">
+      <use xlink:href="#path_15" />
+    </clipPath>
+    <clipPath id="clip_17">
+      <use xlink:href="#path_16" />
+    </clipPath>
+    <clipPath id="clip_18">
+      <use xlink:href="#path_17" />
+    </clipPath>
+    <clipPath id="clip_19">
+      <use xlink:href="#path_18" />
+    </clipPath>
+    <clipPath id="clip_20">
+      <use xlink:href="#path_19" />
+    </clipPath>
+    <clipPath id="clip_21">
+      <use xlink:href="#path_20" />
+    </clipPath>
+    <clipPath id="clip_22">
+      <use xlink:href="#path_21" />
+    </clipPath>
+    <clipPath id="clip_23">
+      <use xlink:href="#path_22" />
+    </clipPath>
+    <clipPath id="clip_24">
+      <use xlink:href="#path_23" />
+    </clipPath>
+    <clipPath id="clip_25">
+      <use xlink:href="#path_24" />
+    </clipPath>
+    <clipPath id="clip_26">
+      <use xlink:href="#path_25" />
+    </clipPath>
+    <clipPath id="clip_27">
+      <use xlink:href="#path_26" />
+    </clipPath>
+    <clipPath id="clip_28">
+      <use xlink:href="#path_27" />
+    </clipPath>
+    <clipPath id="clip_29">
+      <use xlink:href="#path_28" />
+    </clipPath>
+    <clipPath id="clip_30">
+      <use xlink:href="#path_29" />
+    </clipPath>
+    <clipPath id="clip_31">
+      <use xlink:href="#path_30" />
+    </clipPath>
+    <clipPath id="clip_32">
+      <use xlink:href="#path_31" />
+    </clipPath>
+    <clipPath id="clip_33">
+      <use xlink:href="#path_32" />
+    </clipPath>
+    <clipPath id="clip_34">
+      <use xlink:href="#path_33" />
+    </clipPath>
+    <clipPath id="clip_35">
+      <use xlink:href="#path_34" />
+    </clipPath>
+    <clipPath id="clip_36">
+      <use xlink:href="#path_35" />
+    </clipPath>
+    <clipPath id="clip_37">
+      <use xlink:href="#path_36" />
+    </clipPath>
+    <clipPath id="clip_38">
+      <use xlink:href="#path_37" />
+    </clipPath>
+    <clipPath id="clip_39">
+      <use xlink:href="#path_38" />
+    </clipPath>
+    <clipPath id="clip_40">
+      <use xlink:href="#path_39" />
+    </clipPath>
+  </defs>
+  <g id="Artboard" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#212121" />
+    <g id="Triangle" artboard="64f40c7d-b158-43eb-9106-17cff4843271">
+      <g clip-path="url(#clip_2)">
+        <use xlink:href="#path_1" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-6" artboard="5073d36a-4288-4c7f-ad17-bd1716af1bc3">
+      <g clip-path="url(#clip_3)">
+        <use xlink:href="#path_2" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-2" artboard="b6664b0e-a0b4-4659-802e-5074d15be433">
+      <g clip-path="url(#clip_4)">
+        <use xlink:href="#path_3" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-3" artboard="71d3a99b-483a-4ba1-bdbb-67879f99bc20">
+      <g clip-path="url(#clip_5)">
+        <use xlink:href="#path_4" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle" artboard="6c9d6dd2-79a6-4240-9c24-7c94ff800212">
+      <g clip-path="url(#clip_6)">
+        <use xlink:href="#path_5" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-7" artboard="849a135c-1870-446c-bc7d-b8808eb0bf80">
+      <g clip-path="url(#clip_7)">
+        <use xlink:href="#path_6" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-13" artboard="7528c9c1-ba3e-4cc7-a224-f66f0b5c336b">
+      <g clip-path="url(#clip_8)">
+        <use xlink:href="#path_7" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-15" artboard="2817117c-ad35-4f97-baa0-958b377e68f6">
+      <g clip-path="url(#clip_9)">
+        <use xlink:href="#path_8" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-8" artboard="710df5ec-fa29-421a-b282-0f4df0b0607b">
+      <g clip-path="url(#clip_10)">
+        <use xlink:href="#path_9" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle" artboard="d495438f-2a34-4b84-8570-04651b65c718">
+      <g clip-path="url(#clip_11)">
+        <use xlink:href="#path_10" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval" artboard="dee30e27-a004-4db0-ba06-c2cdc1f56876">
+      <g clip-path="url(#clip_12)">
+        <use xlink:href="#path_11" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-17" artboard="5a0eaa4c-d40d-46ef-bba9-3b9910cf699f">
+      <g clip-path="url(#clip_13)">
+        <use xlink:href="#path_12" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-11" artboard="9fc4dbe8-748e-447b-aa70-535d7ed357a6">
+      <g clip-path="url(#clip_14)">
+        <use xlink:href="#path_13" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-4" artboard="5a0d7b71-9160-4860-8a44-2502edaa1f94">
+      <g clip-path="url(#clip_15)">
+        <use xlink:href="#path_14" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-2" artboard="3cc684e8-a3fc-4937-b6e5-763cf0c49f88">
+      <g clip-path="url(#clip_16)">
+        <use xlink:href="#path_15" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-13" artboard="a95af984-6d38-44c4-a262-4c673d6ac307">
+      <g clip-path="url(#clip_17)">
+        <use xlink:href="#path_16" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-14" artboard="0298b2ed-ac5a-4d1f-ac9c-ebbacb59be44">
+      <g clip-path="url(#clip_18)">
+        <use xlink:href="#path_17" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-9" artboard="7111e4ef-d3f9-488d-9e0f-165dddc8103d">
+      <g clip-path="url(#clip_19)">
+        <use xlink:href="#path_18" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-3" artboard="5b8b3a6d-5fe4-40d2-ac4b-f310926bc4b3">
+      <g clip-path="url(#clip_20)">
+        <use xlink:href="#path_19" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-2" artboard="c9bcab91-e2ec-4248-b6aa-d2d63df4765f">
+      <g clip-path="url(#clip_21)">
+        <use xlink:href="#path_20" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-15" artboard="c38c7f96-f055-4700-8120-857b6aa7f800">
+      <g clip-path="url(#clip_22)">
+        <use xlink:href="#path_21" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-16" artboard="2f1b7ea4-a60b-4cb8-ba7e-7a3c27a2a2fc">
+      <g clip-path="url(#clip_23)">
+        <use xlink:href="#path_22" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-10" artboard="75428856-cd40-41b9-abaa-8b3d43c2baf0">
+      <g clip-path="url(#clip_24)">
+        <use xlink:href="#path_23" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-5" artboard="d56ac1a8-8e59-4f46-828b-12db791005aa">
+      <g clip-path="url(#clip_25)">
+        <use xlink:href="#path_24" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-9" artboard="5baf0355-8a49-449e-8bb9-ba5c1cf6e4d3">
+      <g clip-path="url(#clip_26)">
+        <use xlink:href="#path_25" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-10" artboard="c62ce1d0-311b-49c1-ba8a-32cf993e899b">
+      <g clip-path="url(#clip_27)">
+        <use xlink:href="#path_26" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-18" artboard="afb50ba3-c8fe-4721-919b-8e760291f4a2">
+      <g clip-path="url(#clip_28)">
+        <use xlink:href="#path_27" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-11" artboard="86c9f6e8-fa24-4885-93ae-d007163313b6">
+      <g clip-path="url(#clip_29)">
+        <use xlink:href="#path_28" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-19" artboard="ada7bd3b-33f3-4360-b030-3bb1f35a29d5">
+      <g clip-path="url(#clip_30)">
+        <use xlink:href="#path_29" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-12" artboard="4522fa3f-5768-46f1-918c-9c36173a1b3e">
+      <g clip-path="url(#clip_31)">
+        <use xlink:href="#path_30" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-20" artboard="6877a6e3-43de-4968-b5d0-de02321604a7">
+      <g clip-path="url(#clip_32)">
+        <use xlink:href="#path_31" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-21" artboard="18c6f3fd-797a-4c3e-a0d1-fa8bde217d56">
+      <g clip-path="url(#clip_33)">
+        <use xlink:href="#path_32" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-12" artboard="8c516a1c-04b3-4607-b542-aa1436d3ebcb">
+      <g clip-path="url(#clip_34)">
+        <use xlink:href="#path_33" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-6" artboard="dbcb854a-0c7d-4e2b-85d8-37eea5d19afc">
+      <g clip-path="url(#clip_35)">
+        <use xlink:href="#path_34" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-7" artboard="aaf1e307-2f33-4a7e-992a-d1745bfc29b3">
+      <g clip-path="url(#clip_36)">
+        <use xlink:href="#path_35" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Oval-8" artboard="3675d629-7ef1-4bf2-a632-eb9c9234c461">
+      <g clip-path="url(#clip_37)">
+        <use xlink:href="#path_36" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Rectangle" artboard="21f61186-002e-46f2-a9e7-b9a84b41f083">
+      <g clip-path="url(#clip_38)">
+        <use xlink:href="#path_37" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Rectangle-2" artboard="c4328c58-4646-4202-a4b8-ebcce579d046">
+      <g clip-path="url(#clip_39)">
+        <use xlink:href="#path_38" fill="none" stroke="#FFBF00" stroke-opacity="0.21960784" stroke-width="1" />
+      </g>
+    </g>
+    <g id="Triangle-22" artboard="092b6f56-4e08-4fa5-8fdf-2f610cc0faa2">
+      <g clip-path="url(#clip_40)">
+        <use xlink:href="#path_39" fill="none" stroke="#FFBF00" stroke-opacity="0.4392157" stroke-width="1" />
+      </g>
+    </g>
+  </g>
+</svg>
